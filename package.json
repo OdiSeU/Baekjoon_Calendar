@@ -1,0 +1,23 @@
+{
+  "name": "baekjonn_calendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^4.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OdiSeU/Baekjonn_Result_View.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OdiSeU/Baekjonn_Result_View/issues"
+  },
+  "homepage": "https://github.com/OdiSeU/Baekjonn_Result_View#readme"
+}
