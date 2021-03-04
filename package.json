@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OdiSeU/Baekjonn_Result_View.git"
+    "url": "git+https://github.com/OdiSeU/Baekjoon_Calendar.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OdiSeU/Baekjonn_Result_View/issues"
+    "url": "https://github.com/OdiSeU/Baekjoon_Calendar/issues"
   },
-  "homepage": "https://github.com/OdiSeU/Baekjonn_Result_View#readme"
+  "homepage": "https://odiseu.github.io/Baekjoon_Calendar/"
 }
