@@ -1,0 +1,7 @@
+{
+  "apps" : [{
+    "name"       : "baekjoon_calendar",
+    "script"     : "./back/index.js",
+		"exec_mode": "cluster" // 모든 CPU 사용
+  }]
+}
